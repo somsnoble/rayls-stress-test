@@ -17,5 +17,9 @@
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "dotenv": "^17.2.3",
     "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3"
   }
 }

@@ -5,6 +5,10 @@ node_modules
 /cache
 /artifacts
 
+# Ignore Prometheus executable
+prometheus.exe
+prometheus-*.zip
+
 # TypeChain files
 /typechain
 /typechain-types
